@@ -333,4 +333,40 @@ This flow provides a comprehensive view of the user's journey, from the initial 
 
 ---
 
+**Project for 2023**
+#### AI Newsletter Generator
+
+Backend language:
+🧮 JavaScript
+🧮 Python
+
+Frontend language:
+🖥️ JS
+
+UI:
+🎨 React
+🎨 Tailwind CSS
+
+DB:
+📁 PostgreSQL
+📁 Firestore
+
+API:
+🔌 Flask
+
+CI/CD:
+🏗️ GitHub actions
+
+Cloud:
+☁️ AWS
+☁️ Firebase
+
+UI/UX:
+🎨 Figma
+
+Code:
+⛓️ GitHub
+
+📱 FlutterFlow
+
 This flow provides a granular view of the user's journey through the application, detailing the interactions, data flow, and backend processes at each step.
