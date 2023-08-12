@@ -281,6 +281,7 @@ This detailed plan provides a comprehensive roadmap for your project, from initi
 
 
 This flow provides a comprehensive view of the user's journey, from the initial landing to the end of their session.
+
 ---
 
 ## 2. Figma Design Flow:
