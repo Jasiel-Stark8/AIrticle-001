@@ -127,6 +127,7 @@ GPT-4-Powered Newsletter Generator and Manager
 #### Tasks:
 - Consider using AI models like OpenAI's DALL·E to generate images based on the newsletter's theme.
 - Ensure generated images are relevant and of high quality.
+- Unsplash API for image insertion
 
 ### User Uploads:
 
